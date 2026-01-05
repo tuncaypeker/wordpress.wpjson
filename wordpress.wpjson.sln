@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordpress.wpjson", "wordpress.wpjson.csproj", "{686B33A2-7B4C-671F-BFB9-262C4A5C0F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686B33A2-7B4C-671F-BFB9-262C4A5C0F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686B33A2-7B4C-671F-BFB9-262C4A5C0F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686B33A2-7B4C-671F-BFB9-262C4A5C0F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686B33A2-7B4C-671F-BFB9-262C4A5C0F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07F4F12-6F2C-448F-823D-AD6D52D77E88}
+	EndGlobalSection
+EndGlobal

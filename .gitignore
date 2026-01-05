@@ -13,10 +13,6 @@ appsettings.json
 #blogs klasoru devasa
 **/_blogs/
 
-#blogs klasoru devasa
-**/SomeBlog.Clients.OneUI/wwwroot
-**/SomeBlog.Clients.OneUI/Views
-
 # User-specific files
 *.suo
 *.cache
@@ -285,31 +281,3 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-
-# Cake - Uncomment if you are using it
-# tools/
-_databases/18012018.sql
-Clients/SomeBlog.Clients.OneUI/Themes/edirne.zip
-Clients/SomeBlog.Clients.OneUI/Themes/Views/_ViewImports.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/_ViewStart.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Category/Index.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Content/Index.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Home/Index.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Page/Contact.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Search/Index.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Shared/_Layout.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Shared/_SideBar.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/Views/Tag/Index.cshtml
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/favicon.ico
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/logo.png
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/logo.webp
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/css/bootstrap.5.0.1.css
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/css/style.min.css
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/images/css_sprites.png
-Clients/SomeBlog.Clients.OneUI/Themes/wwwroot/_assets/js/site.js
-SomeBlog.Clients.OneUI/Themes/erzurum.zip
-_blogs_move/*
-SomeBlog.Clients.OneUI/Themes/esozlerim.zip
-SomeBlog.Clients.OneUI/Themes/zonguldak.zip
-/SomeBlog.Clients.OneUI/Themes
-/SomeBlog.WebUI/_uploads/temp
